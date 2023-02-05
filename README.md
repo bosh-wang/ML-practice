@@ -1,2 +1,3 @@
 # ML-practice
-video source: [video](https://www.youtube.com/watch?v=jztwpsIzEGc)
+classifier video source: [video](https://www.youtube.com/watch?v=jztwpsIzEGc)
+face detection video source: [video[(https://www.youtube.com/watch?v=N_W4EYtsa10)
